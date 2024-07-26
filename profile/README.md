@@ -1,1 +1,1 @@
-# UB-SPEBT
+# SPEBT
