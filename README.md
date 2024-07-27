@@ -1,2 +1,2 @@
 # .github
-UB-SPEBT organization profile repository
+SPEBT organization profile repository
